@@ -9,8 +9,8 @@
 ### Connect with me:
 
 [<img align="left" alt="MoatazAlsayed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MoatazAlsayed | Stackoverflow" width="22px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" />][stackoverflow]
-[<img align="left" alt="MoatazAlsayed | CodeForces" width="22px" height="30px" src="https://codeforces.org/s/70060/images/codeforces-logo-with-telegram.png" />][codeforces]
+[<img align="left" alt="MoatazAlsayed | Stackoverflow" width="22px" height="23px" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" />][stackoverflow]
+[<img align="left" alt="MoatazAlsayed | CodeForces" width="22px" height="23px" src="https://codeforces.org/s/70060/images/codeforces-logo-with-telegram.png" />][codeforces]
 
 <br />
 
