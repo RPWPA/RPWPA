@@ -4,12 +4,11 @@
 
 - 🌱 I’m currently learning new technologies and searching for a job
 - 🥅 2022 Goals: Grow more as a Person and as a Software Engineer 
-- ⚡ Hobbies: I love learning new technologies, watching Tennis, Football, Anime and making Youtube videos.
+- ⚡ Hobbies: I love learning new technologies, watching Tennis, Football and Anime
 
 ### Connect with me:
 
 [<img align="left" alt="MoatazAlsayed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="RPWPA | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 
