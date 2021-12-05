@@ -9,6 +9,8 @@
 ### Connect with me:
 
 [<img align="left" alt="MoatazAlsayed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MoatazAlsayed | Stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" />][stackoverflow]
+[<img align="left" alt="MoatazAlsayed | CodeForces" width="22px" src="https://codeforces.org/s/70060/images/codeforces-logo-with-telegram.png" />][codeforces]
 
 <br />
 
@@ -61,3 +63,5 @@
 [bookreviewers]: https://github.com/RPWPA/Book-Reviewers
 [mcdonalds]: =https://github.com/RPWPA/Macdonalds-Menu
 [ggj]: https://github.com/RPWPA/GGJ
+[stackoverflow]: https://stackoverflow.com/users/12293080/moataz-alsayed
+[codeforces]: https://codeforces.com/profile/RPWPA
