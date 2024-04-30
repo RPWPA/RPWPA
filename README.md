@@ -3,7 +3,7 @@
 ## I'm Software Engineer
 
 - 🌱 I’m currently working at VOIS as a Software Engineer
-- 🥅 2022 Goals: Grow more as a Person and as a Software Engineer 
+- 🥅 2024 Goals: Grow more as a Person and as a Software Engineer 
 - ⚡ Hobbies: I love learning new technologies, watching Tennis, Football and Anime and reading Manga
 
 ### Connect with me:
